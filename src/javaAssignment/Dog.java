@@ -1,6 +1,6 @@
-package JavaAssignmenst;
+package javaAssignment;
 
-public class dog extends animal{
+public class Dog extends Animal{
 
 	public void speak()
 	{

@@ -1,10 +1,10 @@
-package JavaAssignmenst;
+package javaAssignment;
 
 public class BankAccount {
 	
-	String accountNumber;
-	String accountHolderName;
-	double balance;
+	private String accountNumber;
+	private String accountHolderName;
+	private double balance;
 	
 	 public BankAccount(String accountNumber, String accountHolderName, double balance) {
 	        setAccountNumber(accountNumber);  // Using setter for validation

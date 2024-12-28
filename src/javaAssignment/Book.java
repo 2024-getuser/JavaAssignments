@@ -1,4 +1,4 @@
-package JavaAssignmenst;
+package javaAssignment;
 
 public class Book{
 	

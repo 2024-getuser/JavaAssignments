@@ -1,6 +1,6 @@
-package JavaAssignmenst;
+package javaAssignment;
 
-public class animal {
+public class Animal {
 
 	String name;
 	int age;

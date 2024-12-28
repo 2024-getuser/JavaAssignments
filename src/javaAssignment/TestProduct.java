@@ -1,6 +1,6 @@
-package JavaAssignmenst;
+package javaAssignment;
 
-public class test_Product {
+public class TestProduct {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

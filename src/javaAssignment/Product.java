@@ -1,12 +1,12 @@
-package JavaAssignmenst;
+package javaAssignment;
 
 public class Product  {
 
 	
-	int productId; 
-	String productName;
-	double price;
-	int quantity;
+	private int productId; 
+	private String productName;
+	private double price;
+	private int quantity;
 	
 	public int getProductId() {
 		return productId;

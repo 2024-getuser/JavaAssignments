@@ -1,10 +1,11 @@
-package JavaAssignmenst;
+package javaAssignment;
 
-public class employee {
-	int id;
-	String name;
-	double salary;
-	public employee() {
+public class Employee {
+	private int id;
+	private String name;
+	private double salary;
+	
+	public Employee() {
 		salary = 3000;	
 	}
 	public void set_Id(int e_id) {
